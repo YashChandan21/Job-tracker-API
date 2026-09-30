@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "company": "OpenAI",
+      "role": "SWE",
+      "status": "Interview",
+      "appliedDate": "2026-09-30"
+    },
+    {
+      "id": 2,
+      "company": "Nvidia",
+      "role": "SWE",
+      "status": "Selected",
+      "appliedDate": "2026-09-30"
+    },
+    {
+      "id": 3,
+      "company": "Google",
+      "role": "SDE",
+      "status": "Shortlist",
+      "appliedDate": "2026-09-30"
+    }
+  ]
+}
